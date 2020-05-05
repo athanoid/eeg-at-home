@@ -18,7 +18,9 @@ The COVID19 quarantine led to the documentation of the installation details for 
 #### 1. insert all electrodes in the EEG-cap slots (*time: 20min*) ![step1](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step1.jpg)
 
 #### 3. flip the cap & apply gel inside the cavities (time: 5-8min) 
- ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step2.jpg)![gel in cap](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/put_gel.gif)
+ 
+ ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step2.jpg)
+##### ![gel in cap](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/put_gel.gif)
 #### 4. [a] place your head inside the cable opening, [b] wear the cap carefully and clip the box in your shirt, [c] plug and switch the amp ON (*time: 2-3 min*). ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step3.png)
 
 > Note: I chose to hold the amp in order to control it but if you want
@@ -34,7 +36,7 @@ The COVID19 quarantine led to the documentation of the installation details for 
  
   ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_after.png)
   
-A more detailed impedance distribution: 
+##### A more detailed impedance distribution: 
 ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_topoplot.png)
 
 
