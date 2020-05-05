@@ -15,22 +15,22 @@ The COVID19 quarantine led to the documentation of the installation details for 
 
 ### Steps:
 
-1. insert all electrodes in the EEG-cap slots (*time: 20min*) ![step1](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step1.jpg)
+#### 1. insert all electrodes in the EEG-cap slots (*time: 20min*) ![step1](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step1.jpg)
 
-3. flip the cap & apply gel inside the cavities (time: 5-8min) 
+#### 3. flip the cap & apply gel inside the cavities (time: 5-8min) 
  ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step2.jpg)![gel in cap](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/put_gel.gif)
-4. [a] place your head inside the cable opening, [b] wear the cap carefully and clip the box in your shirt, [c] plug and switch the amp ON (*time: 2-3 min*). ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step3.png)
+#### 4. [a] place your head inside the cable opening, [b] wear the cap carefully and clip the box in your shirt, [c] plug and switch the amp ON (*time: 2-3 min*). ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step3.png)
 
 > Note: I chose to hold the amp in order to control it but if you want
 > you can place it inside the cap pocket before wearing it.
 
-4. massage softly each electrode (time: 3min)
+#### 5. massage softly each electrode (time: 3min)
 
-5. first impedance check: Gnd was at 10 kOhm (time: 2min)![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_before.png)
-6. use the syringe and insert additional gel on each electrode with the help of a mirror (*time: 30mim*) 
+#### 6. first impedance check: Gnd was at 10 kOhm (time: 2min)![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_before.png)
+#### 7. use the syringe and insert additional gel on each electrode with the help of a mirror (*time: 30mim*) 
  ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step4.jpg)
  
-7. second impedance check:
+#### 8. second impedance check:
  
   ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_after.png)
   
