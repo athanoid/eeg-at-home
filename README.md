@@ -82,11 +82,11 @@ The COVID19 quarantine led to the documentation of the installation details for 
 ---
  **TOTAL TIME**: 43min (+20 if the electrodes are not clipped in the cap) 
 --
--- Total gel consumption: 1,1/2 syringes 
+#### Total gel consumption: 1,1/2 syringes 
 ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/syr.jpg)
 
 
-### Data:
+### EEG Data:
 [Acquired test data](https://github.com/athanoid/eeg-at-home/tree/master/data): 5 min eyes open [EO] and 5 min eyes-closed [EC] 
 
 
