@@ -91,8 +91,10 @@ The COVID19 quarantine led to the documentation of the installation details for 
 
 
 
-![EC spectopo](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/spectopo_EC.png)Figure: Sample PSD of eyes closed after 1hz high-pass filtering and re-referencing to average. Alpha at 10Hz can be observed from the occipital electrodes.
+![EC spectopo](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/spectopo_EC.png)
+--Figure: Sample PSD of eyes closed after 1hz high-pass filtering and re-referencing to average. Alpha at 10Hz can be observed from the occipital electrodes.
+
 
 ### Conclusions and final remarks
-This notes showcase the feasibility of a single-user/experimenter EEG setup for acquiring data when additional help is not available (e.g. due to quarantine).
+These notes showcase the feasibility of a single-user/experimenter EEG setup for acquiring data when additional help is not available (e.g. due to quarantine).
 Current data show that we are able to install  the complete EEG equipment in approximately 60 minutes and keep the impedance under 20 kOhms. Finally, a test dataset during resting state (eyes-open/closed) was generated for test and validation. Preliminary results show Alpha activity at 10Hz measured from the occipital electrode locations as anticipated.
