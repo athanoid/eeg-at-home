@@ -16,8 +16,10 @@ The COVID19 quarantine led to the documentation of the installation details for 
 ### Steps:
 
 1. insert all electrodes in the EEG-cap slots (*time: 20min*) ![step1](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step1.jpg)
-2. flip the cap & apply gel inside the cavities (time: 5-8min) ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step2.jpg)![gel in cap](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/put_gel.gif)
-3. [a] place your head inside the cable opening, [b] wear the cap carefully and clip the box in your shirt, [c] plug and switch the amp ON (*time: 2-3 min*). ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step3.png)
+
+3. flip the cap & apply gel inside the cavities (time: 5-8min) 
+ ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step2.jpg)![gel in cap](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/put_gel.gif)
+4. [a] place your head inside the cable opening, [b] wear the cap carefully and clip the box in your shirt, [c] plug and switch the amp ON (*time: 2-3 min*). ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step3.png)
 
 > Note: I chose to hold the amp in order to control it but if you want
 > you can place it inside the cap pocket before wearing it.
@@ -27,9 +29,13 @@ The COVID19 quarantine led to the documentation of the installation details for 
 5. first impedance check: Gnd was at 10 kOhm (time: 2min)![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_before.png)
 6. use the syringe and insert additional gel on each electrode with the help of a mirror (*time: 30mim*) 
  ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step4.jpg)
-8. second impedance check:
+ 
+7. second impedance check:
+ 
   ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_after.png)
--- A more detailed impedance distribution: ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_topoplot.png)
+  
+A more detailed impedance distribution: 
+![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_topoplot.png)
 
 
 ### Detailed Impedance table:
