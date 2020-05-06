@@ -1,5 +1,5 @@
 ## EEG @ home
-Current quarantine led to this documentation which includes the installation details for a single-user/experimenter EEG setup. Hopefully, this could possibly encourage (and help) those that have to work remotely and isolated but need to acquire  EEG data.
+Current quarantine led to this documentation which includes the installation details for a single-user/experimenter EEG setup. Hopefully, this could possibly encourage (and help) those that have to work remotely and isolated but need to acquire  EEG data. Current setup involves [Brain Products GmbH](https://www.brainproducts.com/) equimpment but it could help also others with similar setup.
 
 
 ### User: 
