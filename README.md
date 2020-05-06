@@ -1,5 +1,5 @@
 ## EEG @ home
-The COVID19 quarantine led to this documentation of the installation details for a single-user/experimenter EEG setup. Hopefully, this oculd possibly encourage and help those that have to work remotely and isolated but need to work with real-time EEG data.
+Current quarantine led to this documentation which includes the installation details for a single-user/experimenter EEG setup. Hopefully, this could possibly encourage (and help) those that have to work remotely and isolated but need to acquire  EEG data.
 
 
 ### User: 
