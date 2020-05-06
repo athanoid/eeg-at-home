@@ -15,9 +15,9 @@ Current quarantine led to this documentation which includes the installation det
 
 ### Steps:
 
-#### 1. insert first all electrodes in the EEG-cap holders (*time: 20min*) ![step1](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step1.jpg)
+#### 1. Insert first all electrodes in the EEG-cap holders (*time: 20min*) ![step1](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step1.jpg)
 
-#### 3. flip the cap & apply first the gel inside the cavities (time: 5-8min) 
+#### 3. Reverse the cap & apply first the gel inside the cavities (time: 5-8min) 
  
  ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step2.jpg)
 ##### ![gel in cap](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/put_gel.gif)
@@ -26,13 +26,13 @@ Current quarantine led to this documentation which includes the installation det
 > Note: I chose to hold the amp in front in order to be able to switch it on/off easily, but if you want
 > you can place it inside the cap pocket before wearing it.
 
-#### 5. massage softly each electrode so that the gel spreads and moves closer to the subjects head-skin (time: 3min)
+#### 5. Massage softly each electrode so that the gel spreads and moves closer to the subjects head-skin (time: 3min)
 
-#### 6. first impedance measurement: Gnd was at 10 kOhm (time: 2min)![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_before.png)
+#### 6. First impedance measurement: Gnd was at 10 kOhm (time: 2min)![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_before.png)
 #### 7. use the syringe and insert additional gel on each electrode with the help of a mirror.  Move the needle in gentle circular patterns and apply small amount of gel between the electrode and the skin of the head (*time: 30mim*) 
  ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/images/step4.jpg)
  
-#### 8. second impedance measurement:
+#### 8. Second impedance measurement:
  
   ![enter image description here](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/impedance_after.png)
   
@@ -94,6 +94,9 @@ Current quarantine led to this documentation which includes the installation det
 ![EC spectopo](https://raw.githubusercontent.com/athanoid/eeg-at-home/master/figures/spectopo_EC.png)
 --Figure: Sample PSD of eyes closed after 1hz high-pass filtering and re-referencing to average. Alpha at 10Hz can be observed from the occipital electrodes.
 
+
+### Discussion:
+First, a minor increase in gel consumption can be observed. This is due to the amount of hair that is placed between the electrode and the skin and the lack of a more careful cap placement and skin preparation (e.g. rubbing with alcohol solution). Nonetheless, by carefuly moving the needle in circular patterns, it will increase the contact area between the electrode and the skin. The use of a mirror is really important for most of the electrodes, while with those that there is no direct visual contact (e.g. O1,Oz,O2), a more tactile approach is nessesary by first touching the electrode and try to understand its shape in order to find the hole for the needle. Overall, there was not an increased difficulty, and the fatique level was kept in normal levels.
 
 ### Conclusions and final remarks
 These notes showcase the feasibility of a single-user/experimenter EEG setup for acquiring data when additional help is not available (e.g. due to quarantine).
